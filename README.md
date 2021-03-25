@@ -14,8 +14,8 @@ options for the user to delete or update an existing activity.
 ![](https://img.shields.io/badge/LIBRARY-REACT-NATIVE-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EDITOR-VISUALSTUDIO-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/EDITOR-ANDROID-STUDIO-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/EDITOR-EMULATOR-ANDROID-IOS-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/EDITORANDROID-STUDIO-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/EDITOR-EMULATORANDROIDIOS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SHELL-GITBASH-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-API-informational?style=flat&logoColor=white&color=2bbc8a)
 
