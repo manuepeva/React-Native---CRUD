@@ -17,7 +17,6 @@ options for the user to delete or update an existing activity.
 ![](https://img.shields.io/badge/EDITOR-ANDROIDSTUDIO-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EDITOR-EMULATORANDROIDIOS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SHELL-GITBASH-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CODE-API-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuepeva&show_icons=true&theme=tokyonight)
 
